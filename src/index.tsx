@@ -4,6 +4,7 @@ import { Frame, useAnimation } from "framer"
 
 import "./styles.css"
 
+// Forked
 function App() {
   let birdAnim = useAnimation()
   let cloudsAnim = useAnimation()
